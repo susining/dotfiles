@@ -1,0 +1,18 @@
+{
+  "workbench.colorTheme": "Solarized Dark",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "files.autoSave": "off",
+  "eslint.enable": false,
+  "eslint.packageManager": "yarn",
+  "tslint.autoFixOnSave": true,
+  "tslint.alwaysShowStatus": true,
+  "tslint.packageManager": "yarn",
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false
+}

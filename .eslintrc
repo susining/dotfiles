@@ -1,0 +1,15 @@
+{
+    "extends": "standard",
+    "plugins": ["html"],
+    "globals": {
+        "window": true,
+        "define": true,
+        "$": true
+    },
+    "rules": {
+        "generator-star-spacing": "off",
+        "no-debugger": "error",
+        "no-new":"off",
+        "eqeqeq":"warn"
+    }
+}
