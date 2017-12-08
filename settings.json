@@ -16,5 +16,11 @@
     "eslint.packageManager": "yarn",
     "tslint.enable": true,
     "tslint.autoFixOnSave": false,
-    "tslint.packageManager":"yarn"
+    "tslint.packageManager":"yarn",
+    "html.validate.scripts": false,
+    "html.validate.styles": false,
+    "vim.textwidth": 80,
+    "vim.ignorecase": false,
+    "vim.surround": true,
+    "vim.hlsearch": true
 }
