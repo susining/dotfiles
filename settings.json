@@ -1,0 +1,20 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Solarized Dark",
+    "explorer.autoReveal": false,
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "files.autoSave": "off",
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "stylelint.enable": true,
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": false,
+    "eslint.packageManager": "yarn",
+    "tslint.enable": true,
+    "tslint.autoFixOnSave": false,
+    "tslint.packageManager":"yarn"
+}
